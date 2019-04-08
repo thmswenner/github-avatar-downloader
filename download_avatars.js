@@ -22,5 +22,3 @@ getRepoContributors("jquery", "jquery", function(err, result) {
   console.log("Errors:", err);
   console.log("Result:", result);
 });
-
-//febcadf72f114a6bc58ff6ee343e0ebfad0a2468
